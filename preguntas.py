@@ -18,7 +18,7 @@ def pregunta_01():
     Rta/
     40
     """
-    return len(tbl0.index)
+    print(len(tbl0.index))
 
 def pregunta_02():
     """
